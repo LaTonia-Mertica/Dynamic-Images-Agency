@@ -1,0 +1,40 @@
+body {
+  background-color: lightgoldenrodyellow;
+  background-color: rgba(255, 182, 193, 0.09);
+}
+
+.staff-img {
+  width: 218.25px;
+  height: 218.25px;
+
+  justify-content: center;
+}
+
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+
+  text-align: center;
+  color: darkslateblue;
+
+  margin-bottom: 0;
+}
+
+#container {
+  margin-left: 37;
+}
+
+#loremipsum {
+  width: 90.5%;
+  margin-left: 37;
+}
+
+p {
+  color: pink;
+  background-color: darkslateblue;
+  text-align: justify;
+
+  padding: 15px;
+  margin-top: 0;
+  margin-right: 4px;
+}
