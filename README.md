@@ -1,4 +1,5 @@
 # Dynamic Images Agency
+*solid sprint for iterating through an array with document.getElementById and for loop nested in render function to populate images using innerHTML ... simple while powerful code*
 
 ##### FIRST NAME: La'Tonia Mertica
 ###### note_1: pronounced *luh tone yuh merr treece*
